@@ -1,7 +1,13 @@
-GitHub (public execution framework skeleton):
-- Maker-style order management architecture (Infra / Execution / Strategy separation)
-- Safety-first repo hygiene: secrets/logs/data excluded by default
-- Runnable strategy stub (no proprietary logic published)
+GitHub (public):
+trade-execution-framework — a runnable, safety-first execution framework skeleton.
+
+What it shows:
+- Clean layering (Infra API client / Execution order manager / Strategy stub)
+- Async-ready runnable entry (python -m live.run)
+- Logging + config patterns
+- Secrets hygiene (.env excluded, env example provided)
+
+Note: proprietary strategy/AI/parameters/performance logs are intentionally NOT published.
 
 Communication:
 I’m hearing-impaired, so I rely on chat for technical discussions. I’m happy to join video calls.
