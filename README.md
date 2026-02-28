@@ -30,3 +30,6 @@ I’m hearing-impaired, so I rely on chat for technical discussions. I’m happy
 
 ## CI
 GitHub Actions runs a smoke test on push/PR to ensure the runnable entrypoints keep working.
+## Notes
+- Run entrypoints from repo root using `python -m ...`
+- In PowerShell, prefer `@' ... '@` here-strings when generating .py files to avoid quote-escaping issues.
