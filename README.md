@@ -21,3 +21,12 @@ Public, safety-first skeleton for a maker-style trade execution system.
 
 ## Contact / communication
 I’m hearing-impaired, so I rely on chat for technical discussions. I’m happy to join video calls.
+## Docs
+- [Architecture](docs/ARCHITECTURE.md)
+- [Security](docs/SECURITY.md)
+
+## Examples
+- xamples/support_ticket_summarizer.py
+
+## CI
+GitHub Actions runs a smoke test on push/PR to ensure the runnable entrypoints keep working.
