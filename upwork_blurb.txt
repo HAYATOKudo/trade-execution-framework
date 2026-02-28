@@ -1,0 +1,7 @@
+GitHub (public execution framework skeleton):
+- Maker-style order management architecture (Infra / Execution / Strategy separation)
+- Safety-first repo hygiene: secrets/logs/data excluded by default
+- Runnable strategy stub (no proprietary logic published)
+
+Communication:
+I’m hearing-impaired, so I rely on chat for technical discussions. I’m happy to join video calls.
